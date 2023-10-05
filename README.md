@@ -15,14 +15,22 @@ You can download my CV as a PDF from my Google Drive.
 # Tools 
 # Education
 __Bachelor's degree in Information Systems__
+
 UADER - Facultad de Ciencia y Tecnología
+
 *2019 - In course*
+
 # Courses
 __Full Stack Web Development Jr.__
+
 INTI, CESSI
+
 *2022*
 
 __QA Testing__
+
 EGG Cooperation
+
 *2023*
+
 # Examples of my work
