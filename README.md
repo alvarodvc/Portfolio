@@ -1,11 +1,11 @@
 # Portfolio
-- [About Me](https://github.com/alvarodvc/Portfolio/blob/main/README.md#about-me)
-- [CV](https://github.com/alvarodvc/Portfolio/blob/main/README.md#cv)
-- [Skills](https://github.com/alvarodvc/Portfolio/blob/main/README.md#skills)
-- [Tools](https://github.com/alvarodvc/Portfolio/blob/main/README.md#tools)
-- [Education](https://github.com/alvarodvc/Portfolio/blob/main/README.md#eduacation)
-- [Courses](https://github.com/alvarodvc/Portfolio/blob/main/README.md#courses)
-- [Examples of my work](https://github.com/alvarodvc/Portfolio/blob/main/README.md#examples-of-my-work)
+- [About Me](https://github.com/alvarodvc/Portfolio#about-me)
+- [CV](https://github.com/alvarodvc/Portfolio#cv)
+- [Skills](https://github.com/alvarodvc/Portfolio#skills)
+- [Tools](https://github.com/alvarodvc/Portfolio#tools)
+- [Education](https://github.com/alvarodvc/Portfolio#eduacation)
+- [Courses](https://github.com/alvarodvc/Portfolio#courses)
+- [Examples of my work](https://github.com/alvarodvc/Portfolio#examples-of-my-work)
 # About Me
 I'm a highly motivated student pursuing a Bachelor's degree in Information Systems with a passion for leveraging technology to drive innovation and solve real-world challenges. My diverse skill set includes proficiency in Quality Assurance (QA) Testing and Full Stack Web Development.
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
