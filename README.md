@@ -12,11 +12,11 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 # CV
 You can download my CV as a [PDF from my Google Drive](https://drive.google.com/file/d/1NYPIikw1XE-eaQFwYjZJFlZU20YqvDWG/view?usp=sharing).
 # Skills
-- **Manual Testing:** Proficient in creating comprehensive test cases, executing manual testing procedures, and generating detailed bug reports. Skilled in identifying issues and collaborating effectively with the development team to ensure software quality.
+- **Manual Testing:** Proficient in executing manual testing procedures, including the creation of detailed test cases and use cases. Skilled at validating software functionality by following well-structured test scripts and creating comprehensive bug reports.
    
-- **Use Case and Test Case Creation:** Proficient in creating use cases and test cases to ensure that software requirements are met. Experienced in designing test scenarios and test scripts that cover various user scenarios and edge cases.
+- **Use Case and Test Case Creation:** Experienced in designing use cases and test cases that align with project requirements. Capable of developing test scenarios and scripts that cover a wide range of user interactions, ensuring thorough software testing.
 
-- **Bug Reports:** Skilled in creating detailed and well-structured bug reports, including steps to reproduce, expected vs. actual results, and relevant screenshots. Proficient in using bug tracking tools like Jira to log and manage issues effectively.
+- **Bug Reports:** Proficient in generating and documenting clear and concise bug reports. Detail-oriented with the ability to identify and report software issues, including steps to reproduce, expected vs. actual results, and supporting evidence.
 
 - **Automation Testing:** Experienced in test automation using popular tools such as Selenium and Cypress. Capable of developing and maintaining automated test scripts to improve testing efficiency and reduce the testing cycle.
 
