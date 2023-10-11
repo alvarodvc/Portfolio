@@ -10,7 +10,7 @@
 I'm a highly motivated student pursuing a Bachelor's degree in Information Systems with a passion for leveraging technology to drive innovation and solve real-world challenges. My diverse skill set includes proficiency in Quality Assurance (QA) Testing and Full Stack Web Development.
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 # CV
-You can download my CV as a PDF from my Google Drive.
+You can download my CV as a [PDF from my Google Drive](https://drive.google.com/file/d/1NYPIikw1XE-eaQFwYjZJFlZU20YqvDWG/view?usp=sharing).
 # Skills
 - **Manual Testing:** Proficient in creating comprehensive test cases, executing manual testing procedures, and generating detailed bug reports. Skilled in identifying issues and collaborating effectively with the development team to ensure software quality.
    
@@ -39,13 +39,13 @@ UADER - Facultad de Ciencia y Tecnología
 - __Full Stack Web Development Jr.__
 
 *INTI, CESSI*
-Fullstack Web Portfolio carried out as a Final Project of the Argentina Program course. For the FrontEnd, it is a single page application (SPA) made using FrontEnd technologies such as HTML, CSS, Angular and Bootstrap. And for the BackEnd it is a REST API made using Java + Spring Boot technologies under the MVC model for logic and MySQL for data persistence.
+ Fullstack Web Portfolio carried out as a Final Project of the Argentina Program course. For the FrontEnd, it is a single page application (SPA) made using FrontEnd technologies such as HTML, CSS, Angular and Bootstrap. And for the BackEnd it is a REST API made using Java + Spring Boot technologies under the MVC model for logic and MySQL for data persistence.
 *2022*
 
 - __QA Testing__
 
 *EGG Cooperation*
-Course on testing divided into three modules where we learned the fundaments of testing, manual testing and automated testing.
+ Course on testing divided into three modules where we learned the fundaments of testing, manual testing and automated testing.
 *2023*
 
 # Examples of my work
