@@ -39,13 +39,15 @@ UADER - Facultad de Ciencia y Tecnología
 - __Full Stack Web Development Jr.__
 
 *INTI, CESSI*
- Fullstack Web Portfolio carried out as a Final Project of the Argentina Program course. For the FrontEnd, it is a single page application (SPA) made using FrontEnd technologies such as HTML, CSS, Angular and Bootstrap. And for the BackEnd it is a REST API made using Java + Spring Boot technologies under the MVC model for logic and MySQL for data persistence.
+
+Fullstack Web Portfolio carried out as a Final Project of the Argentina Program course. For the FrontEnd, it is a single page application (SPA) made using FrontEnd technologies such as HTML, CSS, Angular and Bootstrap. And for the BackEnd it is a REST API made using Java + Spring Boot technologies under the MVC model for logic and MySQL for data persistence.
 *2022*
 
 - __QA Testing__
 
 *EGG Cooperation*
- Course on testing divided into three modules where we learned the fundaments of testing, manual testing and automated testing.
+
+Course on testing divided into three modules where we learned the fundaments of testing, manual testing and automated testing.
 *2023*
 
 # Examples of my work
