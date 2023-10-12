@@ -53,3 +53,8 @@ Course on testing divided into three modules where we learned the fundaments of 
 *2023*
 
 # Examples of my work
+- Automation testing:
+   Developing test scripts on pages for educational purposes using Selenium with JAVA. Applying the POM and Page Factory model.
+- Manual testing:
+  Creating use cases and test cases for learning purposes for "WhatsApp" application.
+  
