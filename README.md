@@ -40,7 +40,7 @@ UADER - Facultad de Ciencia y Tecnología
 
 *INTI, CESSI*
 
-Fullstack Web Portfolio carried out as a Final Project of the Argentina Program course. For the FrontEnd, it is a single page application (SPA) made using FrontEnd technologies such as HTML, CSS, Angular and Bootstrap. And for the BackEnd it is a REST API made using Java + Spring Boot technologies under the MVC model for logic and MySQL for data persistence.
+Fullstack Web Portfolio carried out as a Final Project of the Argentina Program course. For the [FrontEnd](https://github.com/alvarodvc/FrontEnd-Portfolio), it is a single page application (SPA) made using FrontEnd technologies such as HTML, CSS, Angular and Bootstrap. And for the [BackEnd](https://github.com/alvarodvc/BackEnd-Portfolio) it is a REST API made using Java + Spring Boot technologies under the MVC model for logic and MySQL for data persistence.
 
 *2022*
 
@@ -48,13 +48,20 @@ Fullstack Web Portfolio carried out as a Final Project of the Argentina Program 
 
 *EGG Cooperation*
 
-Course on testing divided into three modules where we learned the fundaments of testing, manual testing and automated testing.
+Course about Quality Assurance divided into three modules where we learned the fundaments of testing, manual testing and automated testing.
 
 *2023*
 
 # Examples of my work
-- Automation testing:
-   Developing test scripts on pages for educational purposes using Selenium with JAVA. Applying the POM and Page Factory model.
-- Manual testing:
-  Creating use cases and test cases for learning purposes for "WhatsApp" application.
+   
+- __Manual testing__:
   
+  Creating use cases for learning purposes for "WhatsApp" application. Its about two Use Cases: the first is about sending an "**audio message**" using WhatsApp. The second is about an 
+  hypothetical feature: "**add filters or effects at a videocall**" using WhatsApp. **[Click here]**(https://docs.google.com/document/d/1MjLjiyE319dSRIkB8vTySZ4I4jHxdV4YBlK0ZSjH_BY/edit?usp=sharing)
+  And creating four test cases based on the two use cases defined before (two for each). **[Click here]**(https://docs.google.com/document/d/1SCMp71xYAjrZ0M4roZ0MHZpUdusTdtPJNcb8Y8v29EY/edit?usp=sharing)
+  
+- __Automation testing__:
+  
+   Developing test scripts on pages for educational purposes using Selenium with JAVA. Applying the POM and Page Factory model.
+
+   Testing web application interfaces using the Cypress tool. 
