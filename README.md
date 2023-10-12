@@ -38,31 +38,28 @@ UADER - Facultad de Ciencia y Tecnología
 # Courses
 - __Full Stack Web Development Jr.__
 
-*INTI, CESSI*
+*INTI, CESSI - 2022*
 
 Fullstack Web Portfolio carried out as a Final Project of the Argentina Program course. For the [FrontEnd](https://github.com/alvarodvc/FrontEnd-Portfolio), it is a single page application (SPA) made using FrontEnd technologies such as HTML, CSS, Angular and Bootstrap. And for the [BackEnd](https://github.com/alvarodvc/BackEnd-Portfolio) it is a REST API made using Java + Spring Boot technologies under the MVC model for logic and MySQL for data persistence.
 
-*2022*
 
 - __QA Testing__
 
-*EGG Cooperation*
+*EGG Cooperation - 2023*
 
 Course about Quality Assurance divided into three modules where we learned the fundaments of testing, manual testing and automated testing.
-
-*2023*
 
 # Examples of my work
    
 - __Manual testing__:
   
   Creating use cases for learning purposes for "WhatsApp" application. Its about two Use Cases: the first is about sending an "**audio message**" using WhatsApp. The second is about an 
-  hypothetical feature: "**add filters or effects at a videocall**" using WhatsApp. [**Click here**](https://docs.google.com/document/d/1SCMp71xYAjrZ0M4roZ0MHZpUdusTdtPJNcb8Y8v29EY/edit?usp=sharing)
+  hypothetical feature: "**add filters or effects at a videocall**" using WhatsApp. [*Click here to open doc*](https://docs.google.com/document/d/1SCMp71xYAjrZ0M4roZ0MHZpUdusTdtPJNcb8Y8v29EY/edit?usp=sharing)
 
-  And creating four test cases based on the two use cases defined before (two for each). [**Click here**](https://docs.google.com/document/d/1MjLjiyE319dSRIkB8vTySZ4I4jHxdV4YBlK0ZSjH_BY/edit?usp=sharing)
+  And creating four test cases based on the two use cases defined before (two for each). [*Click here to open doc*](https://docs.google.com/document/d/1MjLjiyE319dSRIkB8vTySZ4I4jHxdV4YBlK0ZSjH_BY/edit?usp=sharing)
   
 - __Automation testing__:
   
-   Developing test scripts on pages for educational purposes using Selenium with JAVA. Applying the POM and Page Factory model. [**See more**](https://github.com/alvarodvc/selenium-practice)
+   Developing test scripts on pages for educational purposes using Selenium with JAVA. Applying the POM and Page Factory model. [*Click to project*](https://github.com/alvarodvc/selenium-practice)
 
-   Testing web application interfaces using the Cypress tool. [**See more**](https://github.com/alvarodvc/Cypress-practice)
+   Testing web application interfaces using the Cypress tool. [*Click to project*](https://github.com/alvarodvc/Cypress-practice)
