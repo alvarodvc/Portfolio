@@ -63,6 +63,6 @@ Course about Quality Assurance divided into three modules where we learned the f
   
 - __Automation testing__:
   
-   Developing test scripts on pages for educational purposes using Selenium with JAVA. Applying the POM and Page Factory model.
+   Developing test scripts on pages for educational purposes using Selenium with JAVA. Applying the POM and Page Factory model. [**See more**](https://github.com/alvarodvc/selenium-practice)
 
-   Testing web application interfaces using the Cypress tool. 
+   Testing web application interfaces using the Cypress tool. [**See more**](https://github.com/alvarodvc/Cypress-practice)
