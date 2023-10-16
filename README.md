@@ -50,13 +50,6 @@ Fullstack Web Portfolio carried out as a Final Project of the Argentina Program 
 Course about Quality Assurance divided into three modules where we learned the fundaments of testing, manual testing and automated testing.
 
 # Examples of my work
-   
-- __Manual testing__:
-  
-  Creating use cases for learning purposes for "WhatsApp" application. Its about two Use Cases: the first is about sending an "**audio message**" using WhatsApp. The second is about an 
-  hypothetical feature: "**add filters or effects at a videocall**" using WhatsApp. [*Click here to open doc*](https://docs.google.com/document/d/1SCMp71xYAjrZ0M4roZ0MHZpUdusTdtPJNcb8Y8v29EY/edit?usp=sharing)
-
-  And creating four test cases based on the two use cases defined before (two for each). [*Click here to open doc*](https://docs.google.com/document/d/1MjLjiyE319dSRIkB8vTySZ4I4jHxdV4YBlK0ZSjH_BY/edit?usp=sharing)
   
 - __Automation testing__:
   
