@@ -4,7 +4,7 @@
 - [Skills](https://github.com/alvarodvc/Portfolio#skills)
 - [Tools](https://github.com/alvarodvc/Portfolio#tools)
 - [Education](https://github.com/alvarodvc/Portfolio#eduacation)
-- [Courses](https://github.com/alvarodvc/Portfolio#courses)
+- [Courses](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#courses)
 - [Examples of my work](https://github.com/alvarodvc/Portfolio#examples-of-my-work)
 # About Me
 I'm a highly motivated student pursuing a Bachelor's degree in Information Systems with a passion for leveraging technology to drive innovation and solve real-world challenges. My diverse skill set includes proficiency in Quality Assurance (QA) Testing and Full Stack Web Development.
