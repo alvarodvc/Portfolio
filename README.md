@@ -3,7 +3,7 @@
 - [CV](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#cv)
 - [Skills](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#skills)
 - [Tools](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#tools)
-- [Education](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#eduacation)
+- [Education](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#education)
 - [Courses](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#courses)
 - [Examples of my work](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#examples-of-my-work)
 # About Me
