@@ -1,5 +1,5 @@
 # Portfolio
-- [About Me](https://github.com/alvarodvc/Portfolio#about-me)
+- [About Me](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#about-me)
 - [CV](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#cv)
 - [Skills](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#skills)
 - [Tools](https://github.com/alvarodvc/Portfolio?tab=readme-ov-file#tools)
